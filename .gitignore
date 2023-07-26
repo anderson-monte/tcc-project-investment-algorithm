@@ -1,0 +1,11 @@
+#Ignore these files and folds bellow:
+.idea
+.ipynb_checkpoints
+__pycache__
+
+tcc(copy).ipynb
+teste.py
+teste2.py
+teste3.py
+teste4.py
+teste5.py
