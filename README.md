@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Python-blue?logo=python&logoColor=black&color=%233776AB)
+![Static Badge](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&color=%233776AB)
 ![Static Badge](https://img.shields.io/badge/MetaTrader_5-green)
 ![Static Badge](https://img.shields.io/badge/Jupyter-white?logo=jupyter)
 
